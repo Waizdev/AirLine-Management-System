@@ -32,7 +32,7 @@ sql/
 └── queries.sql # Sample queries (Joins, Aggregates, etc.)
 
 docs/
-├── Airline_SRS.pdf # Software Requirement Specification
+├── Airline_SRS.pdf 
 └── Schema 
         └── pngs
              └── ERD
